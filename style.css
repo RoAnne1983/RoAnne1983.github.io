@@ -1,0 +1,25 @@
+
+body {
+  background-image: url(flatlay\ spoon.jpeg);
+  background-size: cover;
+}
+
+h2 {
+  color: white;
+  text-align:  center;
+  cursor: pointer;
+  
+}
+
+p {
+  color: pink
+}
+
+p {
+  color: green
+}
+
+li {
+  list-style: none;
+  display: inline;
+}
