@@ -14,21 +14,22 @@ html {
 
 }
 
-html, body {
+/* html, body {
   max-width: 100%;
   overflow-x: hidden;
-}
+} */
 
 .row {
   max-width: 1140px;
   margin: 0 auto;
+  
 }
 
 header {
  background-image: url(images/paperbg.jpg);
  background-size: cover;
  background-position: center;
- height: 150vh;
+ height: 120vh;
 }
 
 /* Main Navi */
@@ -247,10 +248,52 @@ h3 {
   width: 40%;
 }
 
-.container {
-  float: left;
-  width: 200px;
-  
-  padding: 10px;
- 
+#titleNatural {
+  position: absolute;
+  top: 160%;
+  left: 15%;
 }
+
+#titleNatural2 {
+  position: absolute;
+  top: 165%;
+  left: 12%;
+}
+
+#titleHealthy {
+  position: absolute;
+  top: 190%;
+  left: 15%;
+}
+
+#titleHealthy2 {
+  position: absolute;
+  top: 195%;
+  left: 12%;
+}
+
+#titleFresh {
+  position: absolute;
+  top: 160%;
+  right: 18%;
+}
+
+#titleFresh2 {
+  position: absolute;
+  top: 165%;
+  right: 13%;
+}
+
+#titleOrganic {
+  position: absolute;
+  top: 190%;
+  right: 17%;
+}
+
+#titleOrganic2 {
+  position: absolute;
+  top: 195%;
+  right: 13%;
+}
+
+
